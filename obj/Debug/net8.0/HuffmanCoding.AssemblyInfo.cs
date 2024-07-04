@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HuffmanCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d60e061b2bd3b4eba6f346d89e6718de55217112")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ea61073831aa9e5240a6994cddeceed6314f750")]
 [assembly: System.Reflection.AssemblyProductAttribute("HuffmanCoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HuffmanCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
